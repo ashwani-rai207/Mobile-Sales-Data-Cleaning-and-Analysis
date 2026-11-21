@@ -1,0 +1,463 @@
+﻿CustomerID,Name,Phone,City,State,Phone Brand,Operating System,Phone_Original,Phone_Status
+1,Rati Srivastava,3756231353,Jaipur,Rajasthan,OnePlus,iOS,3756231353,Valid format
+2,Samaira Bhalla,1675000000,Hyderabad,Telangana,Vivo,iOS,911675000000,Valid format
+3,Anika Rattan,2761000000,Chennai,Tamil Nadu,OnePlus,Android,912761000000,Valid format
+4,Pari Lalla,2799707731,Ahmedabad,Gujarat,Vivo,iOS,2799707731,Valid format
+5,Yashvi Sandal,5298000000,Hyderabad,Telangana,Samsung,Android,915298000000,Valid format
+6,Samaira Bhalla,1675000000,Hyderabad,Telangana,Vivo,iOS,911675000000,Valid format
+7,Trisha Rastogi,2487000000,Mumbai,Maharashtra,Realme,Android,912487000000,Valid format
+8,Ivan Ghosh,5381296018,Bangalore,Karnataka,OnePlus,Android,5381296018,Valid format
+9,Yasmin Krish,5508000000,Pune,Maharashtra,OnePlus,Android,915508000000,Valid format
+10,Kanav Sundaram,2784005711,Bangalore,Karnataka,Realme,iOS,2784005711,Valid format
+11,Jayesh Kara,9932000000,Hyderabad,Telangana,Samsung,iOS,919932000000,Valid format
+12,Adira Bajwa,0811000000,Mumbai,Maharashtra,Xiaomi,iOS,910811000000,Valid format
+13,Shaan Raval,0274000000,Bangalore,Karnataka,Vivo,Android,910274000000,Valid format
+14,Amani Sengupta,3682000000,Hyderabad,Telangana,Realme,iOS,913682000000,Valid format
+15,Purab Walla,8584235948,Ahmedabad,Gujarat,Realme,iOS,8584235948,Valid format
+16,Madhav Sawhney,0746000000,Bangalore,Karnataka,OnePlus,Android,910746000000,Valid format
+17,Advika Krishna,3091000000,Jaipur,Rajasthan,Vivo,iOS,913091000000,Valid format
+18,Zaina Uppal,,Kolkata,West Bengal,Realme,iOS,705192554,Invalid length - review
+19,Jhanvi Soman,,Delhi,Delhi,OnePlus,Android,230999916,Invalid length - review
+20,Shaan Raval,0274000000,Bangalore,Karnataka,Vivo,Android,910274000000,Valid format
+21,Adira Upadhyay,9846063570,Bangalore,Karnataka,Samsung,iOS,9846063570,Valid format
+22,Dharmajan Shroff,8309549999,Jaipur,Rajasthan,OnePlus,Android,8309549999,Valid format
+23,Dhanush Atwal,,Hyderabad,Telangana,OnePlus,iOS,919306217,Invalid length - review
+24,Samiha Raju,8193000000,Mumbai,Maharashtra,Xiaomi,Android,918193000000,Valid format
+25,Vedika Sankaran,,Surat,Gujarat,Samsung,iOS,505040926,Invalid length - review
+26,Vritika Baria,5997000000,Hyderabad,Telangana,Samsung,iOS,915997000000,Valid format
+27,Suhana Baral,,Kolkata,West Bengal,Realme,Android,470772594,Invalid length - review
+28,Arhaan Banik,3157494404,Delhi,Delhi,Samsung,iOS,3157494404,Valid format
+29,Arnav Jani,7019280347,Chennai,Tamil Nadu,Samsung,iOS,7019280347,Valid format
+30,Mishti Keer,8925000000,Chennai,Tamil Nadu,OnePlus,Android,918925000000,Valid format
+31,Samar Soni,6491597909,Mumbai,Maharashtra,Xiaomi,Android,6491597909,Valid format
+32,Yuvraj Raval,7466224730,Jaipur,Rajasthan,Apple,Android,7466224730,Valid format
+33,Jiya Borra,2625311097,Surat,Gujarat,Samsung,Android,2625311097,Valid format
+34,Riya Sunder,3683627068,Kolkata,West Bengal,Vivo,Android,3683627068,Valid format
+35,Ira Kapoor,,Pune,Maharashtra,Apple,iOS,826772649,Invalid length - review
+36,Samar Apte,0505000000,Pune,Maharashtra,Realme,Android,910505000000,Valid format
+37,Taimur Choudhary,5260976179,Pune,Maharashtra,Vivo,Android,5260976179,Valid format
+38,Siya Borah,1100884229,Pune,Maharashtra,Xiaomi,Android,1100884229,Valid format
+39,Kabir Gera,6790386181,Surat,Gujarat,Apple,iOS,6790386181,Valid format
+40,Trisha Talwar,1457000000,Delhi,Delhi,Samsung,Android,911457000000,Valid format
+41,Raghav Banerjee,8099000000,Mumbai,Maharashtra,Realme,Android,918099000000,Valid format
+42,Onkar Agate,1967484692,Jaipur,Rajasthan,Realme,Android,1967484692,Valid format
+43,Aarna Barman,4644875653,Hyderabad,Telangana,Realme,iOS,4644875653,Valid format
+44,Jayant Gole,5140641217,Surat,Gujarat,Realme,Android,5140641217,Valid format
+45,Yakshit Arya,7418310715,Bangalore,Karnataka,Vivo,iOS,7418310715,Valid format
+46,Siya Borah,1100884229,Pune,Maharashtra,Xiaomi,Android,1100884229,Valid format
+47,Alisha Ratta,8472000000,Ahmedabad,Gujarat,Xiaomi,Android,918472000000,Valid format
+48,Ivan Atwal,7450594309,Surat,Gujarat,Samsung,Android,7450594309,Valid format
+49,Shalv Trivedi,5441595285,Pune,Maharashtra,Vivo,Android,5441595285,Valid format
+50,Khushi Ahluwalia,8447011346,Bangalore,Karnataka,Realme,Android,8447011346,Valid format
+51,Shayak Bhargava,6916000000,Hyderabad,Telangana,OnePlus,Android,916916000000,Valid format
+52,Zoya Chauhan,2593240293,Delhi,Delhi,Apple,iOS,2593240293,Valid format
+53,Badal Chakraborty,9160379603,Jaipur,Rajasthan,Apple,iOS,9160379603,Valid format
+54,Diya Bassi,3867244208,Jaipur,Rajasthan,Apple,Android,3867244208,Valid format
+55,Kimaya Tiwari,2453492556,Bangalore,Karnataka,Xiaomi,iOS,2453492556,Valid format
+56,Rati Lad,6119000000,Pune,Maharashtra,Realme,Android,916119000000,Valid format
+57,Samarth Warrior,3951000000,Mumbai,Maharashtra,Xiaomi,Android,913951000000,Valid format
+58,Hridaan Lad,8474600294,Chennai,Tamil Nadu,Samsung,iOS,8474600294,Valid format
+59,Manjari Sharma,9249310037,Jaipur,Rajasthan,Samsung,Android,9249310037,Valid format
+60,Krish Babu,9196544518,Jaipur,Rajasthan,Vivo,iOS,9196544518,Valid format
+61,Shalv Gupta,,Jaipur,Rajasthan,Vivo,Android,865658155,Invalid length - review
+62,Kimaya Tiwari,2453492556,Bangalore,Karnataka,Xiaomi,iOS,2453492556,Valid format
+63,Rati Lad,6119000000,Pune,Maharashtra,Realme,Android,916119000000,Valid format
+64,Chirag Andra,5862988446,Mumbai,Maharashtra,Apple,Android,5862988446,Valid format
+65,Urvi Shanker,9214000000,Delhi,Delhi,Apple,Android,919214000000,Valid format
+66,Tejas Shroff,8990804888,Pune,Maharashtra,Apple,Android,8990804888,Valid format
+67,Krish Walla,2739914676,Hyderabad,Telangana,Apple,Android,2739914676,Valid format
+68,Kartik Sinha,3838000000,Chennai,Tamil Nadu,OnePlus,iOS,913838000000,Valid format
+69,Vritika Ramachandran,4623000000,Kolkata,West Bengal,Xiaomi,iOS,914623000000,Valid format
+70,Aaryahi Sahni,4305027376,Surat,Gujarat,Xiaomi,iOS,4305027376,Valid format
+71,Kaira Choudhury,9949134549,Bangalore,Karnataka,Vivo,Android,9949134549,Valid format
+72,Bhavin Thakur,2850000000,Chennai,Tamil Nadu,OnePlus,iOS,912850000000,Valid format
+73,Zeeshan Wagle,4480113761,Ahmedabad,Gujarat,OnePlus,Android,4480113761,Valid format
+74,Baiju Sachdeva,4749707472,Delhi,Delhi,Samsung,iOS,4749707472,Valid format
+75,Indrajit Kapur,,Hyderabad,Telangana,Realme,iOS,230040498,Invalid length - review
+76,Vardaniya Chauhan,6633666312,Chennai,Tamil Nadu,OnePlus,Android,6633666312,Valid format
+77,Siya Kunda,,Delhi,Delhi,OnePlus,Android,965003471,Invalid length - review
+78,Ranbir Bhavsar,7431000000,Delhi,Delhi,Samsung,Android,917431000000,Valid format
+79,Tiya Aurora,2235678417,Hyderabad,Telangana,OnePlus,Android,2235678417,Valid format
+80,Shamik Magar,,Kolkata,West Bengal,Samsung,Android,247706285,Invalid length - review
+81,Aayush Verma,7961000000,Surat,Gujarat,Realme,iOS,917961000000,Valid format
+82,Divij Chander,4398165607,Surat,Gujarat,Xiaomi,Android,4398165607,Valid format
+83,Ishaan Wagle,4413000000,Jaipur,Rajasthan,Samsung,Android,914413000000,Valid format
+84,Kabir Garg,7456097650,Mumbai,Maharashtra,Vivo,iOS,7456097650,Valid format
+85,Sumer Krish,4988944955,Pune,Maharashtra,Xiaomi,iOS,4988944955,Valid format
+86,Piya Dhillon,7694000000,Jaipur,Rajasthan,Apple,Android,917694000000,Valid format
+87,Eshani Iyer,3018205633,Jaipur,Rajasthan,Apple,Android,3018205633,Valid format
+88,Raghav Varughese,6799761518,Bangalore,Karnataka,OnePlus,Android,6799761518,Valid format
+89,Pari Halder,1207000000,Surat,Gujarat,Apple,Android,911207000000,Valid format
+90,Dharmajan Chawla,7725720303,Kolkata,West Bengal,OnePlus,Android,7725720303,Valid format
+91,Zain Buch,2441509430,Surat,Gujarat,Realme,iOS,2441509430,Valid format
+92,Shanaya Baral,,Bangalore,Karnataka,Realme,Android,996396432,Invalid length - review
+93,Dhruv Halder,6555552235,Kolkata,West Bengal,Apple,Android,6555552235,Valid format
+94,Piya Guha,4204000000,Chennai,Tamil Nadu,Xiaomi,iOS,914204000000,Valid format
+95,Ojas Jha,0681000000,Jaipur,Rajasthan,OnePlus,Android,910681000000,Valid format
+96,Piya Dhillon,7694000000,Jaipur,Rajasthan,Apple,Android,917694000000,Valid format
+97,Eshani Iyer,3018205633,Jaipur,Rajasthan,Apple,Android,3018205633,Valid format
+98,Raghav Varughese,6799761518,Bangalore,Karnataka,OnePlus,Android,6799761518,Valid format
+99,Pari Halder,1207000000,Surat,Gujarat,Apple,Android,911207000000,Valid format
+100,Dharmajan Chawla,7725720303,Kolkata,West Bengal,OnePlus,Android,7725720303,Valid format
+101,Shayak Hari,4790297507,Jaipur,Rajasthan,OnePlus,iOS,4790297507,Valid format
+102,Stuvan Mand,3952956610,Bangalore,Karnataka,Vivo,iOS,3952956610,Valid format
+103,Hunar Behl,8087000000,Surat,Gujarat,Apple,Android,918087000000,Valid format
+104,Lakshay Walla,4049871432,Pune,Maharashtra,Vivo,iOS,4049871432,Valid format
+105,Eshani Saini,1546623667,Surat,Gujarat,Samsung,iOS,1546623667,Valid format
+106,Azad Swaminathan,1221119855,Bangalore,Karnataka,Samsung,Android,1221119855,Valid format
+107,Riya Dubey,4493376918,Mumbai,Maharashtra,OnePlus,Android,4493376918,Valid format
+108,Taimur Kala,8840018999,Chennai,Tamil Nadu,Realme,iOS,8840018999,Valid format
+109,Miraan Borra,7209000000,Mumbai,Maharashtra,Vivo,Android,917209000000,Valid format
+110,Yakshit Sibal,9677530729,Mumbai,Maharashtra,Vivo,iOS,9677530729,Valid format
+111,Riaan Dhingra,9292000000,Ahmedabad,Gujarat,Apple,iOS,919292000000,Valid format
+112,Manikya Madan,9850000000,Kolkata,West Bengal,Vivo,Android,919850000000,Valid format
+113,Kashvi Dara,5216000000,Surat,Gujarat,Samsung,iOS,915216000000,Valid format
+114,Vritika Sha,5883076498,Mumbai,Maharashtra,Samsung,iOS,5883076498,Valid format
+115,Drishya Rama,6851604856,Ahmedabad,Gujarat,Vivo,iOS,6851604856,Valid format
+116,Taimur Rajan,1410000000,Bangalore,Karnataka,Xiaomi,Android,911410000000,Valid format
+117,Amani Mane,1601000000,Pune,Maharashtra,Realme,Android,911601000000,Valid format
+118,Taimur Kala,8840018999,Chennai,Tamil Nadu,Realme,iOS,8840018999,Valid format
+119,Miraan Borra,7209000000,Mumbai,Maharashtra,Vivo,Android,917209000000,Valid format
+120,Yakshit Sibal,9677530729,Mumbai,Maharashtra,Vivo,iOS,9677530729,Valid format
+121,Riaan Dhingra,9292000000,Ahmedabad,Gujarat,Apple,iOS,919292000000,Valid format
+122,Hridaan Dada,5996025814,Jaipur,Rajasthan,Apple,iOS,5996025814,Valid format
+123,Lagan Kalita,5878385425,Chennai,Tamil Nadu,Samsung,Android,5878385425,Valid format
+124,Nehmat Jha,3100000000,Kolkata,West Bengal,Xiaomi,Android,913100000000,Valid format
+125,Kavya Hans,4138503831,Bangalore,Karnataka,Realme,iOS,4138503831,Valid format
+126,Riaan Baral,4030530526,Jaipur,Rajasthan,Realme,iOS,4030530526,Valid format
+127,Shamik Sur,4082000000,Ahmedabad,Gujarat,OnePlus,Android,914082000000,Valid format
+128,Jayesh Shenoy,1134246272,Kolkata,West Bengal,OnePlus,iOS,1134246272,Valid format
+129,Kashvi Kannan,4100599429,Pune,Maharashtra,Xiaomi,Android,4100599429,Valid format
+130,Saira Korpal,6021464236,Pune,Maharashtra,Realme,iOS,6021464236,Valid format
+131,Divij Mannan,2590311094,Chennai,Tamil Nadu,OnePlus,iOS,2590311094,Valid format
+132,Ahana Solanki,2927246376,Hyderabad,Telangana,Vivo,iOS,2927246376,Valid format
+133,Ahana Sahota,6508053179,Surat,Gujarat,Xiaomi,iOS,6508053179,Valid format
+134,Vidur Tella,2572981665,Ahmedabad,Gujarat,Apple,iOS,2572981665,Valid format
+135,Seher Shah,9434161949,Hyderabad,Telangana,Realme,Android,9434161949,Valid format
+136,Zara Bobal,8879000000,Jaipur,Rajasthan,Apple,iOS,918879000000,Valid format
+137,Pari Walla,4071000000,Chennai,Tamil Nadu,Samsung,Android,914071000000,Valid format
+138,Prerak Dixit,9842128786,Jaipur,Rajasthan,OnePlus,Android,9842128786,Valid format
+139,Jivika Iyengar,9710000000,Delhi,Delhi,OnePlus,iOS,919710000000,Valid format
+140,Saira Devi,5599000000,Kolkata,West Bengal,Xiaomi,iOS,915599000000,Valid format
+141,Tushar Doctor,8550000000,Delhi,Delhi,Apple,Android,918550000000,Valid format
+142,Azad Contractor,2940924677,Delhi,Delhi,Vivo,Android,2940924677,Valid format
+143,Tejas Bains,2738000000,Hyderabad,Telangana,Realme,iOS,912738000000,Valid format
+144,Nirvi Dutt,5477449902,Kolkata,West Bengal,Realme,Android,5477449902,Valid format
+145,Yashvi Deshmukh,1060000000,Delhi,Delhi,Xiaomi,iOS,911060000000,Valid format
+146,Jiya Chandran,8597000000,Ahmedabad,Gujarat,OnePlus,iOS,918597000000,Valid format
+147,Eshani Gole,2043942453,Mumbai,Maharashtra,Apple,iOS,2043942453,Valid format
+148,Nayantara Lalla,6371275222,Mumbai,Maharashtra,Xiaomi,Android,6371275222,Valid format
+149,Romil Singhal,3652000000,Ahmedabad,Gujarat,Samsung,iOS,913652000000,Valid format
+150,Divyansh Dhar,2708394868,Jaipur,Rajasthan,Realme,Android,2708394868,Valid format
+151,Rati Lata,2874630885,Bangalore,Karnataka,Samsung,iOS,2874630885,Valid format
+152,Vidur Chaudhuri,8257348670,Surat,Gujarat,Xiaomi,Android,8257348670,Valid format
+153,Lakshay Dugar,3237000000,Surat,Gujarat,Realme,iOS,913237000000,Valid format
+154,Eva Borra,6374682824,Jaipur,Rajasthan,Xiaomi,iOS,6374682824,Valid format
+155,Indrajit Raju,3924828596,Bangalore,Karnataka,Xiaomi,Android,3924828596,Valid format
+156,Ritvik Vasa,2817960726,Hyderabad,Telangana,Realme,Android,2817960726,Valid format
+157,Tara Kumar,8910509675,Jaipur,Rajasthan,OnePlus,iOS,8910509675,Valid format
+158,Baiju Vora,5345535647,Delhi,Delhi,Realme,iOS,5345535647,Valid format
+159,Tanya Shetty,0998000000,Jaipur,Rajasthan,Xiaomi,iOS,910998000000,Valid format
+160,Sana Kalla,5342784570,Pune,Maharashtra,Apple,Android,5342784570,Valid format
+161,Indrajit Dhar,1226722914,Pune,Maharashtra,Xiaomi,Android,1226722914,Valid format
+162,Yuvaan Thaker,7106375365,Ahmedabad,Gujarat,Vivo,Android,7106375365,Valid format
+163,Pihu Dora,8966050539,Kolkata,West Bengal,Xiaomi,iOS,8966050539,Valid format
+164,Ahana Shenoy,7959186281,Pune,Maharashtra,Samsung,iOS,7959186281,Valid format
+165,Aaryahi Lad,8712109094,Kolkata,West Bengal,Apple,Android,8712109094,Valid format
+166,Renee Hayer,6551310965,Chennai,Tamil Nadu,Apple,iOS,6551310965,Valid format
+167,Vanya Sawhney,,Chennai,Tamil Nadu,Samsung,iOS,328517971,Invalid length - review
+168,Charvi Srivastava,6171652329,Mumbai,Maharashtra,Xiaomi,Android,6171652329,Valid format
+169,Hazel Devi,5781067875,Chennai,Tamil Nadu,OnePlus,iOS,5781067875,Valid format
+170,Indrajit Golla,2970000000,Hyderabad,Telangana,OnePlus,iOS,912970000000,Valid format
+171,Biju Chahal,5374818423,Mumbai,Maharashtra,Xiaomi,iOS,5374818423,Valid format
+172,Pari Bera,9030000000,Mumbai,Maharashtra,Samsung,Android,919030000000,Valid format
+173,Alisha Dave,1913000000,Kolkata,West Bengal,Realme,Android,911913000000,Valid format
+174,Darshit Batra,5520559463,Ahmedabad,Gujarat,Vivo,Android,5520559463,Valid format
+175,Miraan Sahni,5443738594,Pune,Maharashtra,Vivo,iOS,5443738594,Valid format
+176,Ranbir Bedi,2561400590,Ahmedabad,Gujarat,Realme,iOS,2561400590,Valid format
+177,Alia Warrior,7317221739,Jaipur,Rajasthan,Realme,iOS,7317221739,Valid format
+178,Samaira Agate,1527063366,Surat,Gujarat,Apple,Android,1527063366,Valid format
+179,Aarush Suresh,7726213291,Mumbai,Maharashtra,Xiaomi,Android,7726213291,Valid format
+180,Mishti Ratti,4702000000,Mumbai,Maharashtra,OnePlus,Android,914702000000,Valid format
+181,Pihu Borah,3975000000,Ahmedabad,Gujarat,Samsung,iOS,913975000000,Valid format
+182,Nayantara Karan,5871351200,Ahmedabad,Gujarat,Xiaomi,iOS,5871351200,Valid format
+183,Aarush Tank,2425340174,Jaipur,Rajasthan,Apple,iOS,2425340174,Valid format
+184,Samaira Agate,1527063366,Surat,Gujarat,Apple,Android,1527063366,Valid format
+185,Aarush Suresh,7726213291,Mumbai,Maharashtra,Xiaomi,Android,7726213291,Valid format
+186,Aayush Shankar,4722452187,Kolkata,West Bengal,Vivo,Android,4722452187,Valid format
+187,Ivana Madan,9964692602,Ahmedabad,Gujarat,Vivo,Android,9964692602,Valid format
+188,Kaira Bhalla,0856000000,Delhi,Delhi,Apple,iOS,910856000000,Valid format
+189,Kabir Bhargava,4614000000,Jaipur,Rajasthan,OnePlus,iOS,914614000000,Valid format
+190,Ranbir Sankaran,,Kolkata,West Bengal,OnePlus,iOS,535349577,Invalid length - review
+191,Tara Ben,1697660639,Ahmedabad,Gujarat,Realme,iOS,1697660639,Valid format
+192,Shray Halder,3509846183,Surat,Gujarat,Apple,Android,3509846183,Valid format
+193,Adira Chaudhuri,7236000000,Jaipur,Rajasthan,Samsung,iOS,917236000000,Valid format
+194,Darshit Anne,8826000000,Delhi,Delhi,Vivo,iOS,918826000000,Valid format
+195,Myra Wali,7766000000,Ahmedabad,Gujarat,Samsung,iOS,917766000000,Valid format
+196,Tara Goyal,6447248904,Jaipur,Rajasthan,OnePlus,iOS,6447248904,Valid format
+197,Onkar Virk,3153039541,Chennai,Tamil Nadu,Realme,Android,3153039541,Valid format
+198,Renee Wason,3310528798,Chennai,Tamil Nadu,Vivo,Android,3310528798,Valid format
+199,Shamik Mahal,6432544961,Kolkata,West Bengal,Xiaomi,iOS,6432544961,Valid format
+200,Hansh Suresh,6806405231,Hyderabad,Telangana,Samsung,Android,6806405231,Valid format
+201,Darshit Anne,8826000000,Delhi,Delhi,Vivo,iOS,918826000000,Valid format
+202,Myra Wali,7766000000,Ahmedabad,Gujarat,Samsung,iOS,917766000000,Valid format
+203,Shamik Char,5507000000,Pune,Maharashtra,Realme,Android,915507000000,Valid format
+204,Ela Virk,4048000000,Surat,Gujarat,OnePlus,iOS,914048000000,Valid format
+205,Anya Setty,6699394173,Surat,Gujarat,Apple,iOS,6699394173,Valid format
+206,Arnav Chad,4796774519,Jaipur,Rajasthan,Vivo,iOS,4796774519,Valid format
+207,Riaan Halder,5002440735,Jaipur,Rajasthan,OnePlus,iOS,5002440735,Valid format
+208,Vardaniya Manne,,Chennai,Tamil Nadu,Xiaomi,iOS,918921376,Invalid length - review
+209,Parinaaz Sachdeva,2229784785,Mumbai,Maharashtra,Apple,iOS,2229784785,Valid format
+210,Shlok Bail,3449000000,Chennai,Tamil Nadu,Samsung,Android,913449000000,Valid format
+211,Hiran Kala,,Kolkata,West Bengal,Apple,iOS,919239271,Invalid length - review
+212,Shamik Mander,,Surat,Gujarat,Vivo,iOS,662280475,Invalid length - review
+213,Ritvik Kapoor,0359000000,Hyderabad,Telangana,Realme,iOS,910359000000,Valid format
+214,Jiya Chaudhary,2829240742,Hyderabad,Telangana,OnePlus,iOS,2829240742,Valid format
+215,Seher Bandi,8002000000,Chennai,Tamil Nadu,Xiaomi,iOS,918002000000,Valid format
+216,Shamik Varkey,6234289042,Surat,Gujarat,Vivo,Android,6234289042,Valid format
+217,Anvi Dhaliwal,4567000000,Ahmedabad,Gujarat,Realme,iOS,914567000000,Valid format
+218,Khushi Bora,6123598039,Delhi,Delhi,Xiaomi,Android,6123598039,Valid format
+219,Zain Talwar,6196516293,Mumbai,Maharashtra,Xiaomi,Android,6196516293,Valid format
+220,Piya Saha,4095752875,Bangalore,Karnataka,Xiaomi,Android,4095752875,Valid format
+221,Jayan Bir,7633000000,Kolkata,West Bengal,Xiaomi,iOS,917633000000,Valid format
+222,Azad Wagle,3280569770,Pune,Maharashtra,OnePlus,Android,3280569770,Valid format
+223,Pranay Roy,4383678248,Ahmedabad,Gujarat,Realme,iOS,4383678248,Valid format
+224,Hunar Bahl,1478000000,Mumbai,Maharashtra,Apple,Android,911478000000,Valid format
+225,Biju Sachdeva,,Kolkata,West Bengal,Apple,Android,73463143,Invalid length - review
+226,Kashvi Doshi,,Pune,Maharashtra,Xiaomi,Android,634883928,Invalid length - review
+227,Sana Bail,1823083276,Kolkata,West Bengal,Samsung,Android,1823083276,Valid format
+228,Trisha Batra,4224313638,Bangalore,Karnataka,Samsung,iOS,4224313638,Valid format
+229,Biju Bhat,7727354885,Chennai,Tamil Nadu,Xiaomi,Android,7727354885,Valid format
+230,Suhana Brahmbhatt,7948865741,Jaipur,Rajasthan,Xiaomi,Android,7948865741,Valid format
+231,Arhaan Ratta,9932000000,Surat,Gujarat,Xiaomi,Android,919932000000,Valid format
+232,Ojas Shenoy,3163718931,Mumbai,Maharashtra,Vivo,iOS,3163718931,Valid format
+233,Akarsh Sagar,7655000000,Ahmedabad,Gujarat,Vivo,iOS,917655000000,Valid format
+234,Kaira Mander,1487000000,Ahmedabad,Gujarat,Xiaomi,iOS,911487000000,Valid format
+235,Kaira Bansal,,Mumbai,Maharashtra,Samsung,iOS,900794135,Invalid length - review
+236,Tejas Deshmukh,3472000000,Hyderabad,Telangana,OnePlus,iOS,913472000000,Valid format
+237,Uthkarsh Bhavsar,2020250868,Surat,Gujarat,Samsung,Android,2020250868,Valid format
+238,Neelofar Kar,8858978233,Chennai,Tamil Nadu,Apple,iOS,8858978233,Valid format
+239,Samarth Vohra,1227000000,Chennai,Tamil Nadu,Vivo,Android,911227000000,Valid format
+240,Dhanuk Konda,7869837416,Surat,Gujarat,Realme,Android,7869837416,Valid format
+241,Tiya Balan,6893000000,Bangalore,Karnataka,Apple,Android,916893000000,Valid format
+242,Keya Goda,5341670701,Kolkata,West Bengal,Vivo,Android,5341670701,Valid format
+243,Eva Bhatnagar,5913450115,Surat,Gujarat,OnePlus,Android,5913450115,Valid format
+244,Aaryahi Johal,2519000000,Ahmedabad,Gujarat,Realme,Android,912519000000,Valid format
+245,Lagan Vig,7582396018,Ahmedabad,Gujarat,Samsung,iOS,7582396018,Valid format
+246,Jiya Kanda,,Ahmedabad,Gujarat,Samsung,iOS,256336694,Invalid length - review
+247,Gatik Bora,8957000000,Kolkata,West Bengal,Vivo,Android,918957000000,Valid format
+248,Adah Karpe,4262000000,Surat,Gujarat,Xiaomi,iOS,914262000000,Valid format
+249,Faiyaz Barman,2870000000,Jaipur,Rajasthan,Apple,iOS,912870000000,Valid format
+250,Kimaya Viswanathan,1539983902,Chennai,Tamil Nadu,OnePlus,Android,1539983902,Valid format
+251,Tejas Kaur,4745000000,Kolkata,West Bengal,Apple,iOS,914745000000,Valid format
+252,Riaan Behl,4590916622,Delhi,Delhi,OnePlus,iOS,4590916622,Valid format
+253,Divyansh Gala,1655629622,Chennai,Tamil Nadu,Vivo,iOS,1655629622,Valid format
+254,Kartik D’Alia,7958126091,Pune,Maharashtra,Apple,Android,7958126091,Valid format
+255,Indranil Setty,5193000000,Jaipur,Rajasthan,Xiaomi,Android,915193000000,Valid format
+256,Hazel Gulati,,Delhi,Delhi,Samsung,Android,678057533,Invalid length - review
+257,Farhan Anne,9483521782,Delhi,Delhi,Vivo,Android,9483521782,Valid format
+258,Khushi Upadhyay,,Kolkata,West Bengal,Realme,Android,923248314,Invalid length - review
+259,Khushi Sahni,1828000000,Pune,Maharashtra,Xiaomi,Android,911828000000,Valid format
+260,Pihu Bains,,Pune,Maharashtra,Xiaomi,Android,896528597,Invalid length - review
+261,Kartik Tailor,2827262468,Jaipur,Rajasthan,Realme,iOS,2827262468,Valid format
+262,Jayesh Bali,4024000000,Surat,Gujarat,Vivo,Android,914024000000,Valid format
+263,Keya Tandon,2612000000,Bangalore,Karnataka,OnePlus,iOS,912612000000,Valid format
+264,Hunar Hora,7679546375,Kolkata,West Bengal,Xiaomi,Android,7679546375,Valid format
+265,Siya Goda,5598251131,Bangalore,Karnataka,Realme,Android,5598251131,Valid format
+266,Tiya Golla,5324000000,Hyderabad,Telangana,Vivo,Android,915324000000,Valid format
+267,Lakshit Reddy,6910728095,Mumbai,Maharashtra,OnePlus,iOS,6910728095,Valid format
+268,Navya Kuruvilla,3719000000,Surat,Gujarat,Realme,Android,913719000000,Valid format
+269,Krish Manne,6338996369,Ahmedabad,Gujarat,OnePlus,Android,6338996369,Valid format
+270,Misha Hegde,9513352593,Jaipur,Rajasthan,OnePlus,Android,9513352593,Valid format
+271,Farhan Anne,9483521782,Delhi,Delhi,Vivo,Android,9483521782,Valid format
+272,Khushi Upadhyay,,Kolkata,West Bengal,Realme,Android,923248314,Invalid length - review
+273,Khushi Sahni,1828000000,Pune,Maharashtra,Xiaomi,Android,911828000000,Valid format
+274,Pihu Bains,,Pune,Maharashtra,Xiaomi,Android,896528597,Invalid length - review
+275,Kartik Tailor,2827262468,Jaipur,Rajasthan,Realme,iOS,2827262468,Valid format
+276,Jayesh Bali,4024000000,Surat,Gujarat,Vivo,Android,914024000000,Valid format
+277,Keya Tandon,2612000000,Bangalore,Karnataka,OnePlus,iOS,912612000000,Valid format
+278,Hunar Hora,7679546375,Kolkata,West Bengal,Xiaomi,Android,7679546375,Valid format
+279,Taran Bera,8442000000,Surat,Gujarat,Realme,Android,918442000000,Valid format
+280,Arhaan Sachdeva,7116681528,Chennai,Tamil Nadu,Xiaomi,Android,7116681528,Valid format
+281,Hunar Sarkar,3164265007,Pune,Maharashtra,Xiaomi,iOS,3164265007,Valid format
+282,Biju Datta,5264000000,Pune,Maharashtra,Samsung,Android,915264000000,Valid format
+283,Divij Mandal,8971099949,Delhi,Delhi,Realme,iOS,8971099949,Valid format
+284,Pari Khanna,5822000000,Delhi,Delhi,Apple,Android,915822000000,Valid format
+285,Veer Kota,3502356115,Bangalore,Karnataka,Realme,iOS,3502356115,Valid format
+286,Neelofar Krish,9964100098,Kolkata,West Bengal,Vivo,iOS,9964100098,Valid format
+287,Biju Sama,9784000000,Jaipur,Rajasthan,OnePlus,Android,919784000000,Valid format
+288,Elakshi Keer,7768871683,Pune,Maharashtra,OnePlus,iOS,7768871683,Valid format
+289,Dhanush Dora,2706765180,Hyderabad,Telangana,Realme,Android,2706765180,Valid format
+290,Kabir Krish,1206000000,Hyderabad,Telangana,Samsung,iOS,911206000000,Valid format
+291,Lakshay Deol,6718481757,Pune,Maharashtra,Xiaomi,Android,6718481757,Valid format
+292,Kaira Shere,6283000000,Pune,Maharashtra,Realme,iOS,916283000000,Valid format
+293,Parinaaz Mani,6972000000,Pune,Maharashtra,Xiaomi,Android,916972000000,Valid format
+294,Jivika Kade,,Mumbai,Maharashtra,Xiaomi,iOS,535406286,Invalid length - review
+295,Mishti Kamdar,5974850891,Pune,Maharashtra,Vivo,Android,5974850891,Valid format
+296,Kaira Kale,2164651760,Bangalore,Karnataka,Vivo,Android,2164651760,Valid format
+297,Saanvi Rao,6700659643,Bangalore,Karnataka,Xiaomi,Android,6700659643,Valid format
+298,Aniruddh Kari,8616174965,Kolkata,West Bengal,Realme,iOS,8616174965,Valid format
+299,Zaina Swaminathan,3048669689,Jaipur,Rajasthan,Apple,iOS,3048669689,Valid format
+300,Mamooty Swaminathan,6782627444,Surat,Gujarat,OnePlus,iOS,6782627444,Valid format
+301,Suhana Dhar,2531655846,Pune,Maharashtra,Realme,Android,2531655846,Valid format
+302,Ojas Ganguly,7868592231,Delhi,Delhi,Realme,iOS,7868592231,Valid format
+303,Aaina Ramesh,7405000000,Mumbai,Maharashtra,Vivo,iOS,917405000000,Valid format
+304,Eshani Kumer,5850212339,Bangalore,Karnataka,Vivo,iOS,5850212339,Valid format
+305,Pari Rau,3011750093,Jaipur,Rajasthan,Realme,Android,3011750093,Valid format
+306,Vanya Dyal,9478000000,Surat,Gujarat,Realme,iOS,919478000000,Valid format
+307,Samar Sahota,2610255605,Mumbai,Maharashtra,Realme,iOS,2610255605,Valid format
+308,Zoya Swamy,6922000000,Hyderabad,Telangana,Vivo,Android,916922000000,Valid format
+309,Rhea Sura,2520195136,Delhi,Delhi,Apple,Android,2520195136,Valid format
+310,Armaan Acharya,8440000000,Delhi,Delhi,Realme,iOS,918440000000,Valid format
+311,Saira Kamdar,0434000000,Delhi,Delhi,Samsung,iOS,910434000000,Valid format
+312,Aradhya Thaman,0286000000,Kolkata,West Bengal,Apple,iOS,910286000000,Valid format
+313,Kiaan Dugar,7236913392,Hyderabad,Telangana,Realme,Android,7236913392,Valid format
+314,Dhruv Varty,4754000000,Surat,Gujarat,OnePlus,iOS,914754000000,Valid format
+315,Jayant Seth,5325651351,Hyderabad,Telangana,Vivo,Android,5325651351,Valid format
+316,Manjari Kadakia,5857817458,Bangalore,Karnataka,Xiaomi,iOS,5857817458,Valid format
+317,Hridaan Doctor,1788280687,Mumbai,Maharashtra,Realme,iOS,1788280687,Valid format
+318,Taran Balakrishnan,4910201453,Chennai,Tamil Nadu,Xiaomi,Android,4910201453,Valid format
+319,Priyansh Chanda,4417000000,Bangalore,Karnataka,OnePlus,iOS,914417000000,Valid format
+320,Kiaan Rao,8563547724,Mumbai,Maharashtra,Samsung,Android,8563547724,Valid format
+321,Prerak Sane,1591770615,Surat,Gujarat,OnePlus,iOS,1591770615,Valid format
+322,Eshani Mammen,,Hyderabad,Telangana,OnePlus,iOS,725741549,Invalid length - review
+323,Jayesh Sule,7078108581,Jaipur,Rajasthan,Xiaomi,iOS,7078108581,Valid format
+324,Damini Sampath,3372552788,Delhi,Delhi,Xiaomi,Android,3372552788,Valid format
+325,Abram Gulati,4714416162,Chennai,Tamil Nadu,OnePlus,iOS,4714416162,Valid format
+326,Ranbir Baria,0824000000,Bangalore,Karnataka,OnePlus,iOS,910824000000,Valid format
+327,Reyansh Hans,3181000000,Jaipur,Rajasthan,Xiaomi,iOS,913181000000,Valid format
+328,Tanya Bhattacharyya,1031913573,Delhi,Delhi,Apple,Android,1031913573,Valid format
+329,Chirag Chowdhury,3476546896,Chennai,Tamil Nadu,OnePlus,iOS,3476546896,Valid format
+330,Amani Hegde,6314192103,Bangalore,Karnataka,OnePlus,iOS,6314192103,Valid format
+331,Misha Mann,1767799004,Mumbai,Maharashtra,Samsung,Android,1767799004,Valid format
+332,Aaina Wadhwa,,Kolkata,West Bengal,Samsung,Android,350261991,Invalid length - review
+333,Anvi Tak,4268000000,Mumbai,Maharashtra,OnePlus,iOS,914268000000,Valid format
+334,Kanav Rastogi,8452360986,Kolkata,West Bengal,Samsung,iOS,8452360986,Valid format
+335,Kaira Ravel,5538000000,Surat,Gujarat,Realme,Android,915538000000,Valid format
+336,Prerak Dhingra,8642918813,Chennai,Tamil Nadu,Xiaomi,Android,8642918813,Valid format
+337,Umang Iyengar,4318000000,Chennai,Tamil Nadu,Samsung,Android,914318000000,Valid format
+338,Romil Amble,2987000000,Bangalore,Karnataka,Samsung,Android,912987000000,Valid format
+339,Suhana Dhawan,9645558950,Jaipur,Rajasthan,Xiaomi,Android,9645558950,Valid format
+340,Shayak Das,4204000000,Pune,Maharashtra,Apple,iOS,914204000000,Valid format
+341,Arhaan Kar,8623000000,Delhi,Delhi,Vivo,Android,918623000000,Valid format
+342,Aarna Kale,4315460594,Delhi,Delhi,Vivo,iOS,4315460594,Valid format
+343,Vedika Saraf,8559376505,Jaipur,Rajasthan,Vivo,Android,8559376505,Valid format
+344,Navya Subramanian,8602000000,Jaipur,Rajasthan,Xiaomi,iOS,918602000000,Valid format
+345,Raunak Lall,3665000000,Kolkata,West Bengal,Samsung,iOS,913665000000,Valid format
+346,Hunar Buch,2664374631,Hyderabad,Telangana,Realme,iOS,2664374631,Valid format
+347,Zaina Chaudhuri,5444000000,Kolkata,West Bengal,Apple,iOS,915444000000,Valid format
+348,Nehmat Mahal,5408000000,Jaipur,Rajasthan,Vivo,iOS,915408000000,Valid format
+349,Abram Shukla,8206413806,Chennai,Tamil Nadu,Apple,Android,8206413806,Valid format
+350,Neysa Bahl,5996979229,Bangalore,Karnataka,Vivo,iOS,5996979229,Valid format
+351,Vaibhav Bassi,7727000000,Kolkata,West Bengal,Realme,iOS,917727000000,Valid format
+352,Rohan Issac,4516284655,Mumbai,Maharashtra,Apple,iOS,4516284655,Valid format
+353,Gokul Chandran,2133000000,Chennai,Tamil Nadu,Xiaomi,Android,912133000000,Valid format
+354,Armaan Wason,1436000000,Jaipur,Rajasthan,Realme,iOS,911436000000,Valid format
+355,Khushi Biswas,3504806258,Kolkata,West Bengal,Samsung,iOS,3504806258,Valid format
+356,Indranil Ramakrishnan,1943795824,Delhi,Delhi,OnePlus,Android,1943795824,Valid format
+357,Yakshit Barad,8135423877,Pune,Maharashtra,Vivo,Android,8135423877,Valid format
+358,Shayak Walia,5936000000,Ahmedabad,Gujarat,Samsung,Android,915936000000,Valid format
+359,Nirvaan Bobal,5539147400,Chennai,Tamil Nadu,Realme,iOS,5539147400,Valid format
+360,Heer Sankaran,5408840501,Pune,Maharashtra,OnePlus,Android,5408840501,Valid format
+361,Ivan Bhardwaj,8019963902,Bangalore,Karnataka,Xiaomi,iOS,8019963902,Valid format
+362,Vihaan Karan,5943793031,Chennai,Tamil Nadu,Xiaomi,Android,5943793031,Valid format
+363,Nirvaan Dhawan,9450117252,Pune,Maharashtra,Apple,Android,9450117252,Valid format
+364,Fateh Vala,4431445116,Ahmedabad,Gujarat,Vivo,Android,4431445116,Valid format
+365,Khushi Salvi,7533000000,Ahmedabad,Gujarat,Apple,Android,917533000000,Valid format
+366,Yasmin Vala,1381000000,Chennai,Tamil Nadu,OnePlus,iOS,911381000000,Valid format
+367,Damini Bansal,9839898188,Mumbai,Maharashtra,Vivo,iOS,9839898188,Valid format
+368,Umang Kadakia,1048084273,Hyderabad,Telangana,Samsung,Android,1048084273,Valid format
+369,Nitara Basak,1832000000,Mumbai,Maharashtra,Xiaomi,Android,911832000000,Valid format
+370,Lakshay Kadakia,3258000000,Mumbai,Maharashtra,Vivo,iOS,913258000000,Valid format
+371,Siya Rao,8932432977,Surat,Gujarat,Samsung,iOS,8932432977,Valid format
+372,Dishani Raman,6447000000,Kolkata,West Bengal,Vivo,iOS,916447000000,Valid format
+373,Madhup Rajagopalan,2789119624,Mumbai,Maharashtra,Vivo,Android,2789119624,Valid format
+374,Nehmat Mangal,9417020166,Bangalore,Karnataka,Xiaomi,Android,9417020166,Valid format
+375,Oorja Devan,9410904998,Ahmedabad,Gujarat,Vivo,iOS,9410904998,Valid format
+376,Saksham Deep,5835960035,Jaipur,Rajasthan,Vivo,iOS,5835960035,Valid format
+377,Nehmat Bhasin,2055000000,Mumbai,Maharashtra,Xiaomi,iOS,912055000000,Valid format
+378,Samar Sane,4221398195,Jaipur,Rajasthan,Xiaomi,iOS,4221398195,Valid format
+379,Arhaan Mand,0919000000,Chennai,Tamil Nadu,Apple,iOS,910919000000,Valid format
+380,Yuvaan Devan,3120447655,Kolkata,West Bengal,Apple,iOS,3120447655,Valid format
+381,Inaaya Deo,2544115101,Kolkata,West Bengal,OnePlus,iOS,2544115101,Valid format
+382,Alia Thaman,2360000000,Ahmedabad,Gujarat,Xiaomi,Android,912360000000,Valid format
+383,Vedika Tata,2023688453,Kolkata,West Bengal,OnePlus,Android,2023688453,Valid format
+384,Vidur Kumar,1927000000,Kolkata,West Bengal,Realme,iOS,911927000000,Valid format
+385,Ira Chand,2160114527,Kolkata,West Bengal,Realme,iOS,2160114527,Valid format
+386,Riaan Madan,5830000000,Kolkata,West Bengal,Apple,iOS,915830000000,Valid format
+387,Yashvi Chauhan,1645955989,Bangalore,Karnataka,Realme,Android,1645955989,Valid format
+388,Ayesha Sampath,5970282717,Ahmedabad,Gujarat,Apple,iOS,5970282717,Valid format
+389,Samarth Srivastava,,Kolkata,West Bengal,Vivo,iOS,887718286,Invalid length - review
+390,Ira Shan,7775000000,Chennai,Tamil Nadu,OnePlus,iOS,917775000000,Valid format
+391,Tiya Issac,7270000000,Jaipur,Rajasthan,Realme,Android,917270000000,Valid format
+392,Taran Acharya,6699000000,Pune,Maharashtra,Vivo,Android,916699000000,Valid format
+393,Baiju Bhardwaj,5720000000,Bangalore,Karnataka,Samsung,Android,915720000000,Valid format
+394,Ira Mall,6372000000,Kolkata,West Bengal,OnePlus,Android,916372000000,Valid format
+395,Eshani Banik,7159570871,Chennai,Tamil Nadu,Realme,iOS,7159570871,Valid format
+396,Kaira Sarkar,1618831380,Ahmedabad,Gujarat,Xiaomi,Android,1618831380,Valid format
+397,Nitya Dhawan,6402088244,Ahmedabad,Gujarat,Samsung,iOS,6402088244,Valid format
+398,Damini Jha,4742277672,Jaipur,Rajasthan,Xiaomi,Android,4742277672,Valid format
+399,Nehmat Dutt,9991002163,Ahmedabad,Gujarat,Samsung,Android,9991002163,Valid format
+400,Suhana Kohli,3716278665,Kolkata,West Bengal,Realme,Android,3716278665,Valid format
+401,Farhan Varty,3786000000,Delhi,Delhi,Samsung,Android,913786000000,Valid format
+402,Abram Guha,8772500955,Chennai,Tamil Nadu,Xiaomi,iOS,8772500955,Valid format
+403,Renee Chaudhry,2151940686,Pune,Maharashtra,Samsung,Android,2151940686,Valid format
+404,Tanya Chaudhary,0702000000,Surat,Gujarat,OnePlus,iOS,910702000000,Valid format
+405,Diya Shroff,6045341119,Hyderabad,Telangana,Apple,Android,6045341119,Valid format
+406,Alisha Iyengar,7362000000,Hyderabad,Telangana,OnePlus,Android,917362000000,Valid format
+407,Aniruddh Kaul,8884706986,Ahmedabad,Gujarat,OnePlus,iOS,8884706986,Valid format
+408,Nehmat Hora,7259289856,Ahmedabad,Gujarat,Vivo,iOS,7259289856,Valid format
+409,Yuvaan Chakrabarti,7251869056,Pune,Maharashtra,Realme,iOS,7251869056,Valid format
+410,Farhan Thaman,9043914698,Delhi,Delhi,Xiaomi,iOS,9043914698,Valid format
+411,Arhaan Chawla,3041046840,Kolkata,West Bengal,Xiaomi,iOS,3041046840,Valid format
+412,Siya Jhaveri,,Pune,Maharashtra,OnePlus,iOS,486594172,Invalid length - review
+413,Shaan Balay,9214000000,Jaipur,Rajasthan,Realme,iOS,919214000000,Valid format
+414,Anahi Mangat,4438112642,Surat,Gujarat,Realme,iOS,4438112642,Valid format
+415,Yashvi Bal,0893000000,Jaipur,Rajasthan,Xiaomi,iOS,910893000000,Valid format
+416,Dhruv Ganesan,5408042248,Hyderabad,Telangana,Realme,Android,5408042248,Valid format
+417,Nishith Goyal,4366707094,Bangalore,Karnataka,Xiaomi,iOS,4366707094,Valid format
+418,Tarini Sur,5216097738,Delhi,Delhi,Samsung,iOS,5216097738,Valid format
+419,Dishani Rege,7291433492,Delhi,Delhi,Realme,iOS,7291433492,Valid format
+420,Divij Sandhu,8139421427,Chennai,Tamil Nadu,Apple,Android,8139421427,Valid format
+421,Neelofar Balay,8685935806,Ahmedabad,Gujarat,Vivo,Android,8685935806,Valid format
+422,Rania Tiwari,8723885073,Chennai,Tamil Nadu,Vivo,iOS,8723885073,Valid format
+423,Shamik Mangal,6127688409,Kolkata,West Bengal,Samsung,iOS,6127688409,Valid format
+424,Jiya Chana,3367000000,Bangalore,Karnataka,Vivo,Android,913367000000,Valid format
+425,Yashvi Dar,3078025554,Jaipur,Rajasthan,OnePlus,iOS,3078025554,Valid format
+426,Sana Ramesh,9675382536,Pune,Maharashtra,Samsung,Android,9675382536,Valid format
+427,Mahika Kala,4667255946,Delhi,Delhi,Realme,Android,4667255946,Valid format
+428,Aaryahi Chaudhuri,3233683010,Jaipur,Rajasthan,Samsung,iOS,3233683010,Valid format
+429,Sara Vora,5461098198,Surat,Gujarat,Samsung,iOS,5461098198,Valid format
+430,Saira Samra,8317000000,Ahmedabad,Gujarat,Vivo,iOS,918317000000,Valid format
+431,Rania Madan,0094000000,Kolkata,West Bengal,Samsung,iOS,910094000000,Valid format
+432,Madhup Brahmbhatt,7898000000,Pune,Maharashtra,Apple,Android,917898000000,Valid format
+433,Lagan Sundaram,,Jaipur,Rajasthan,Samsung,iOS,793627612,Invalid length - review
+434,Jhanvi Zachariah,8419135870,Surat,Gujarat,Xiaomi,Android,8419135870,Valid format
+435,Eva Kara,3559713055,Jaipur,Rajasthan,Xiaomi,iOS,3559713055,Valid format
+436,Ira Barman,,Ahmedabad,Gujarat,Apple,Android,668512849,Invalid length - review
+437,Divij Mammen,1451129705,Jaipur,Rajasthan,OnePlus,Android,1451129705,Valid format
+438,Myra Gala,7613000000,Hyderabad,Telangana,Realme,iOS,917613000000,Valid format
+439,Vedika Vig,2027315515,Delhi,Delhi,Xiaomi,Android,2027315515,Valid format
+440,Kabir Chad,6682664536,Chennai,Tamil Nadu,OnePlus,iOS,6682664536,Valid format
+441,Gokul Tailor,9539985750,Hyderabad,Telangana,Apple,iOS,9539985750,Valid format
+442,Khushi Mammen,6069000000,Surat,Gujarat,Vivo,iOS,916069000000,Valid format
+443,Navya Mangat,5616214221,Ahmedabad,Gujarat,Vivo,iOS,5616214221,Valid format
+444,Vidur Gara,8231009885,Kolkata,West Bengal,Samsung,Android,8231009885,Valid format
+445,Tarini Wable,6968000000,Jaipur,Rajasthan,Samsung,iOS,916968000000,Valid format
+446,Piya Vaidya,9672000000,Mumbai,Maharashtra,Apple,iOS,919672000000,Valid format
+447,Charvi Saxena,3923000000,Chennai,Tamil Nadu,OnePlus,iOS,913923000000,Valid format
+448,Hazel Dash,7012000000,Surat,Gujarat,Samsung,Android,917012000000,Valid format
+449,Miraan Keer,9302515828,Bangalore,Karnataka,Xiaomi,Android,9302515828,Valid format
+450,Indranil Swaminathan,9182026294,Pune,Maharashtra,Xiaomi,Android,9182026294,Valid format
+451,Vritika Chand,3712671931,Pune,Maharashtra,OnePlus,iOS,3712671931,Valid format
+452,Rania Khalsa,1203390977,Kolkata,West Bengal,Apple,iOS,1203390977,Valid format
+453,Neelofar Dhawan,2048465498,Pune,Maharashtra,OnePlus,iOS,2048465498,Valid format
+454,Keya Gour,3206899216,Kolkata,West Bengal,OnePlus,Android,3206899216,Valid format
+455,Mishti Bava,0048000000,Hyderabad,Telangana,Realme,Android,910048000000,Valid format
+456,Raunak Ben,6960175238,Hyderabad,Telangana,Samsung,iOS,6960175238,Valid format
+457,Kiaan Baria,3151990913,Surat,Gujarat,Vivo,iOS,3151990913,Valid format
+458,Uthkarsh Rege,2983448561,Ahmedabad,Gujarat,Xiaomi,iOS,2983448561,Valid format
+459,Heer Bains,3745672928,Delhi,Delhi,OnePlus,Android,3745672928,Valid format
+460,Nirvi Bhakta,0342000000,Delhi,Delhi,Apple,iOS,910342000000,Valid format
+461,Nirvaan Sundaram,8744733311,Pune,Maharashtra,Xiaomi,Android,8744733311,Valid format
+462,Biju Ravel,3862000000,Bangalore,Karnataka,Apple,Android,913862000000,Valid format
